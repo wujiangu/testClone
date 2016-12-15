@@ -1,3 +1,3 @@
 # testClone
 this is my first time to clone repository
-Create the new branch and dev
+Create the new branch & dev
